@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: #000000;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 20px;
+}
+.main {
+    border: 12px solid black;
+    display: block;
+    margin: 20px auto;
+    overflow: hidden;
+    width: 960px;
+}
+.header {
+    background-color: #FAFAF8;
+    padding: 24px;
+}
+.fix {
+    overflow: hidden;
+}
+.alignleft {
+    float: left;
+    margin-right: 9px;
+}
+.slider-one {
+    background-color: #EDEDED;
+}
+.slider {
+    background: none repeat scroll 0 0 #EDEDED;
+    float: left;
+    margin-right: 31px;
+    padding: 0;
+    width: 672px;
+}
+.slider h1 {
+    line-height: 25px;
+    margin-top: 8px;
+    padding: 17px;
+}
+.slider p {
+    line-height: 2;
+    margin-top: -24px;
+    padding: 21px;
+}
+.manu {
+    float: right;
+    margin-right: -12px;
+    margin-top: 33px;
+}
+.maincontent {
+    background-color: #232A32;
+    padding: 37px;
+}
+.rubel {
+    left: 10px;
+    margin-top: 31px;
+    position: relative;
+}
+.rubel p {
+    color: #D7DBDE;
+    left: 15px;
+    margin-top: -25px;
+    position: relative;
+}
+.rubel1 {
+    left: 265px;
+    margin-top: -37px;
+    position: relative;
+}
+.rubel1 p {
+    color: #D7DBDE;
+    left: 48px;
+    position: relative;
+}
+.rubel2 {
+    left: 555px;
+    margin-top: -40px;
+    position: relative;
+}
+.rubel2 p {
+    color: #D7DBDE;
+    left: 20px;
+    position: relative;
+}
+.rubel3 {
+    left: 8px;
+    margin-top: 56px;
+    position: relative;
+}
+.rubel3 p {
+    color: #D7DBDE;
+    left: 11px;
+    position: relative;
+}
+.rubel4 {
+    left: 260px;
+    margin-top: -33px;
+    position: relative;
+}
+.rubel4 p {
+    color: #D7DBDE;
+    left: 16px;
+    position: relative;
+}
+.rubel5 {
+    left: 543px;
+    margin-top: -34px;
+    position: relative;
+}
+.rubel5 p {
+    color: #D7DBDE;
+    left: 17px;
+    position: relative;
+}
+.sidebar {
+    left: 246px;
+    padding: 40px;
+    position: relative;
+}
+.sidebar1 {
+}
+.sidebar2 {
+    margin-top: 16px;
+    position: relative;
+}
+.footer {
+    background-color: #EDEDED;
+    padding: 41px;
+}
+.footer h2 {
+    position: relative;
+    left: 210;
+    line-height: 1;
+}
+.footer p {
+    position: relative;
+    left: 327;
